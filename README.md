@@ -1,4 +1,4 @@
-# Xernian Army Defection Risk Predictor
+# Xernian Army Defection Risk Predictor - Innov8: IIT Delhi PS
 
 ## Table of Contents
 - [Xernian Army Defection Risk Predictor](#xernian-army-defection-risk-predictor)
